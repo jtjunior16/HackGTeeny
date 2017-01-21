@@ -20,3 +20,5 @@ public class MainActivity extends AppCompatActivity {
         myRef.setValue("Hello, World!");
     }
 }
+
+//Hi this is Justin! If you are reading this work hard! :)
